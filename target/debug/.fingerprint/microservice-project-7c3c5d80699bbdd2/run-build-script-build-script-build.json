@@ -1,0 +1,1 @@
+{"rustc":927955034769998173,"features":"","target":0,"profile":0,"path":0,"deps":[[550415392344689114,"build_script_build",false,11642072445696477873]],"local":[{"RerunIfChanged":{"output":"debug/build/microservice-project-7c3c5d80699bbdd2/output","paths":["proto/authentication.proto","proto"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}

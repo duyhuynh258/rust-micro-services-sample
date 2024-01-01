@@ -29,7 +29,7 @@ pub struct UsersImpl {
 impl Users for UsersImpl {
     fn create_user(&mut self, username: String, password: String) -> Result<(), String> {
         // Check if username already exist. If so return an error.
-        if (self.username_to_user.contains_key(&username)) {
+        if self.username_to_user.contains_key(&username) {
             return Err("User already exists!".to_string());
         }
 

@@ -1,0 +1,14 @@
+/Users/champ/Desktop/learn/rust-bootcamp/rust-micro-services-sample/target/debug/deps/uuid-17802cf5ae977abf.rmeta: /Users/champ/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.6.1/src/lib.rs /Users/champ/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.6.1/src/builder.rs /Users/champ/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.6.1/src/error.rs /Users/champ/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.6.1/src/parser.rs /Users/champ/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.6.1/src/fmt.rs /Users/champ/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.6.1/src/timestamp.rs /Users/champ/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.6.1/src/v4.rs /Users/champ/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.6.1/src/rng.rs /Users/champ/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.6.1/src/external.rs /Users/champ/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.6.1/src/macros.rs
+
+/Users/champ/Desktop/learn/rust-bootcamp/rust-micro-services-sample/target/debug/deps/uuid-17802cf5ae977abf.d: /Users/champ/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.6.1/src/lib.rs /Users/champ/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.6.1/src/builder.rs /Users/champ/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.6.1/src/error.rs /Users/champ/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.6.1/src/parser.rs /Users/champ/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.6.1/src/fmt.rs /Users/champ/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.6.1/src/timestamp.rs /Users/champ/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.6.1/src/v4.rs /Users/champ/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.6.1/src/rng.rs /Users/champ/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.6.1/src/external.rs /Users/champ/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.6.1/src/macros.rs
+
+/Users/champ/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.6.1/src/lib.rs:
+/Users/champ/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.6.1/src/builder.rs:
+/Users/champ/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.6.1/src/error.rs:
+/Users/champ/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.6.1/src/parser.rs:
+/Users/champ/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.6.1/src/fmt.rs:
+/Users/champ/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.6.1/src/timestamp.rs:
+/Users/champ/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.6.1/src/v4.rs:
+/Users/champ/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.6.1/src/rng.rs:
+/Users/champ/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.6.1/src/external.rs:
+/Users/champ/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.6.1/src/macros.rs:

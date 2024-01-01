@@ -118,7 +118,7 @@ impl Auth for AuthService {
 
         // Delete session using `sessions_service`.
 
-        let result = self
+        let _result = self
             .sessions_service
             .lock()
             .unwrap()
